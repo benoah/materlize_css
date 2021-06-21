@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.css"],"names":[],"mappings":"AAAA,KACI,QAAS,CACT,YAAa,CACb,gBAAiB,CACjB,qBACJ,CACA,KACI,aAAc,CACd,aACJ","file":"style.628cedc7.css","sourceRoot":"..","sourcesContent":["body {\n    margin: 0;\n    display: flex;\n    min-height: 100vh;\n    flex-direction: column;\n}\nmain {\n    display: block;\n    flex: 1 0 auto;\n}"]}
